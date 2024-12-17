@@ -1,57 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on </title>
-    <link>/tags/about/</link>
-    <description>Recent content in About on </description>
+    <title>Blogs on </title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>/about/welcome-to-my-blog/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/about/welcome-to-my-blog/</guid>
-      <description>&lt;h2 id=&#34;who-i-am&#34;&gt;Who I am?&lt;/h2&gt;
-&lt;p&gt;Hello, my name is kresna A.K.A kubiku, I&amp;rsquo;m a muslim tech entusiast.&lt;/p&gt;
-&lt;h2 id=&#34;my-motivation-to-share-my-thought&#34;&gt;My motivation to share my thought&lt;/h2&gt;
-&lt;p&gt;The inspiration behind creating this blog comes from a powerful quote in the movie &lt;em&gt;V for Vendetta&lt;/em&gt;:&lt;br&gt;
-&lt;em&gt;&amp;ldquo;Beneath this mask, there is more than flesh. Beneath this mask, there is an idea, and ideas are bulletproof.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
-This resonates deeply with me, as I believe ideas have the power to inspire and create meaningful change. By sharing my thoughts, I hope to spread knowledge and beliefs that others might find useful.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;who-i-am&#34;&gt;Who I am?&lt;/h2&gt;
-&lt;p&gt;Hello, my name is kresna A.K.A kubiku, I&amp;rsquo;m a muslim tech entusiast.&lt;/p&gt;
-&lt;h2 id=&#34;my-motivation-to-share-my-thought&#34;&gt;My motivation to share my thought&lt;/h2&gt;
-&lt;p&gt;The inspiration behind creating this blog comes from a powerful quote in the movie &lt;em&gt;V for Vendetta&lt;/em&gt;:&lt;br&gt;
-&lt;em&gt;&amp;ldquo;Beneath this mask, there is more than flesh. Beneath this mask, there is an idea, and ideas are bulletproof.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
-This resonates deeply with me, as I believe ideas have the power to inspire and create meaningful change. By sharing my thoughts, I hope to spread knowledge and beliefs that others might find useful.&lt;/p&gt;
-&lt;p&gt;Additionally, I draw motivation from a profound teaching in Islam:&lt;br&gt;
-&lt;em&gt;&amp;ldquo;Convey from me even if it is just one verse&amp;rdquo;&lt;/em&gt; (Hadith, Sahih Bukhari).&lt;/p&gt;
-&lt;p&gt;With this, I aim to share not just technology-related content but also values and reflections that could inspire or help others in their lives.&lt;/p&gt;
-&lt;p&gt;Feel free to explore, engage, and share your thoughts here! Let’s exchange ideas and grow together.&lt;/p&gt;
-&lt;p&gt;May Allah Guide All Of Us&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome To My Blog</title>
-      <link>/posts/welcome-to-my-blog/</link>
+      <link>//localhost:1313/blog/welcome-to-my-blog/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/welcome-to-my-blog/</guid>
+      <guid>//localhost:1313/blog/welcome-to-my-blog/</guid>
       <description>&lt;h2 id=&#34;what-is-this-blog-about&#34;&gt;What is this blog about?&lt;/h2&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/pexels-krivec-ales-547115.jpg&#34; alt=&#34;Image Description&#34;&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/pexels-krivec-ales-547115.jpg&#34; alt=&#34;Image Description&#34;&gt;
 This blog is a space dedicated to my passion for technology and related interests. Here, you&amp;rsquo;ll find &lt;strong&gt;how-to guides&lt;/strong&gt;, &lt;strong&gt;tips&lt;/strong&gt;, &lt;strong&gt;tech news&lt;/strong&gt;, and other fascinating content. While the primary focus is on tech, I also enjoy sharing about &lt;strong&gt;cooking&lt;/strong&gt;, &lt;strong&gt;traveling&lt;/strong&gt;, &lt;strong&gt;religion&lt;/strong&gt;, and &lt;strong&gt;DIY projects&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;my-motivation-to-share-my-thought&#34;&gt;My motivation to share my thought&lt;/h2&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/pexels-dreamypixel-547125.jpg&#34; alt=&#34;Image Description&#34;&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/pexels-dreamypixel-547125.jpg&#34; alt=&#34;Image Description&#34;&gt;
 The inspiration behind creating this blog comes from a powerful quote in the movie &lt;em&gt;V for Vendetta&lt;/em&gt;:&lt;br&gt;
 &lt;em&gt;&amp;ldquo;Beneath this mask, there is more than flesh. Beneath this mask, there is an idea, and ideas are bulletproof.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 This resonates deeply with me, as I believe ideas have the power to inspire and create meaningful change. By sharing my thoughts, I hope to spread knowledge and beliefs that others might find useful.&lt;/p&gt;</description>
       <content>&lt;h2 id=&#34;what-is-this-blog-about&#34;&gt;What is this blog about?&lt;/h2&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/pexels-krivec-ales-547115.jpg&#34; alt=&#34;Image Description&#34;&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/pexels-krivec-ales-547115.jpg&#34; alt=&#34;Image Description&#34;&gt;
 This blog is a space dedicated to my passion for technology and related interests. Here, you&amp;rsquo;ll find &lt;strong&gt;how-to guides&lt;/strong&gt;, &lt;strong&gt;tips&lt;/strong&gt;, &lt;strong&gt;tech news&lt;/strong&gt;, and other fascinating content. While the primary focus is on tech, I also enjoy sharing about &lt;strong&gt;cooking&lt;/strong&gt;, &lt;strong&gt;traveling&lt;/strong&gt;, &lt;strong&gt;religion&lt;/strong&gt;, and &lt;strong&gt;DIY projects&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;my-motivation-to-share-my-thought&#34;&gt;My motivation to share my thought&lt;/h2&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/pexels-dreamypixel-547125.jpg&#34; alt=&#34;Image Description&#34;&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/pexels-dreamypixel-547125.jpg&#34; alt=&#34;Image Description&#34;&gt;
 The inspiration behind creating this blog comes from a powerful quote in the movie &lt;em&gt;V for Vendetta&lt;/em&gt;:&lt;br&gt;
 &lt;em&gt;&amp;ldquo;Beneath this mask, there is more than flesh. Beneath this mask, there is an idea, and ideas are bulletproof.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 This resonates deeply with me, as I believe ideas have the power to inspire and create meaningful change. By sharing my thoughts, I hope to spread knowledge and beliefs that others might find useful.&lt;/p&gt;
